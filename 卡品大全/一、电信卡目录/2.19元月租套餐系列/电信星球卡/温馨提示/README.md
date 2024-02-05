@@ -8,4 +8,4 @@
 >
 >领取页建议使用中国大陆IP访问，否则可能审核不通过。
 
-<h2><a href="https://www.baidu.com"><b>前往领取页</b></a></h2>
+[前往领取页](https://www.baidu.com)
